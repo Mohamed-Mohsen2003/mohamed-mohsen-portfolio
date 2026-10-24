@@ -282,7 +282,7 @@ export const socialLinks = [
   {
     label: 'LinkedIn',
     icon: 'logo-linkedin',
-    url: 'https://www.linkedin.com/in/mohamed-mohsen-7a3615221/',
+    url: 'https://www.linkedin.com/in/mohamed-mohsen-developer/',
   },
   { label: 'GitHub', icon: 'logo-github', url: 'https://github.com/Mohamed-Mohsen2003' },
   { label: 'WhatsApp', icon: 'logo-whatsapp', url: profile.whatsapp },
