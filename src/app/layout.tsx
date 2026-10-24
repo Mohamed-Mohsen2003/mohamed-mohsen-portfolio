@@ -44,12 +44,12 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Mohamed Mohsen — Full-Stack Developer',
     description:
-      'Web, mobile and desktop applications. Explore selected projects, skills and experience.',
+      'Full-Stack Developer and UI/UX Designer with 500+ completed projects. Explore web apps, e-commerce stores, mobile apps and business systems built with React, Next.js, Laravel and Flutter.',
     url: siteUrl,
     type: 'website',
-    images: [`${siteUrl}assets/images/personal%20image.jpg`],
+    images: [{ url: `${siteUrl}assets/images/og-cover.jpg`, width: 1200, height: 627 }],
   },
-  twitter: { card: 'summary' },
+  twitter: { card: 'summary_large_image' },
 };
 
 export const viewport: Viewport = { themeColor: '#121212' };
