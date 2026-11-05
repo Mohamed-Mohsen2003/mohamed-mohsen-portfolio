@@ -114,13 +114,23 @@ export const experience = [
     ],
   },
   {
-    role: 'Web Developer Intern',
+    role: 'Back-End Developer Intern',
+    company: 'Gulf of Suez Petroleum Company (GUPCO)',
+    period: 'April 2022 — June 2022',
+    points: [
+      'Built server-side features and RESTful APIs for internal web applications.',
+      'Designed and queried relational databases (SQL) and handled data validation.',
+      'Supported the team with testing, debugging and performance improvements.',
+    ],
+  },
+  {
+    role: 'Front-End Developer Intern',
     company: 'Egyptian General Petroleum Corporation (EGPC)',
     period: 'January 2022 — March 2022',
     points: [
-      'Contributed to interactive web interfaces and React-based application features.',
-      'Supported usability and performance improvements for web applications.',
-      'Assisted with development planning and testing to deliver reliable user experiences.',
+      'Built interactive web interfaces and application features with React.',
+      'Turned ideas and requirements into responsive, user-centric interfaces.',
+      'Improved front-end loading speed and usability for internal web applications.',
     ],
   },
 ];
