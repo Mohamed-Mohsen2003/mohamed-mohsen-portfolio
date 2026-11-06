@@ -79,7 +79,7 @@ export const experience = [
     ],
   },
   {
-    role: 'Team Leader Web Developer',
+    role: 'Web Development Team Leader',
     company: 'Auto Media Marketing Agency',
     period: 'October 2024 — Present',
     note: 'Remote',
