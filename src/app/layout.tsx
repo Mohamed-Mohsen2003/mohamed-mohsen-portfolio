@@ -44,7 +44,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Mohamed Mohsen — Full-Stack Developer',
     description:
-      'Full-Stack Developer and UI/UX Designer with 500+ completed projects. Explore web apps, e-commerce stores, mobile apps and business systems built with React, Next.js, Laravel and Flutter.',
+      'Full-Stack Developer and UI/UX Designer with 200+ completed projects. Explore web apps, e-commerce stores, mobile apps and business systems built with React, Next.js, Laravel and Flutter.',
     url: siteUrl,
     type: 'website',
     images: [{ url: `${siteUrl}assets/images/og-cover.jpg`, width: 1200, height: 627 }],
